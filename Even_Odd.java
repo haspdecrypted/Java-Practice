@@ -1,5 +1,4 @@
 /*Write a program to print whether a number is even or odd, also take input from the user.*/
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;
 public class Even_Odd {
     public static void main(String[] args) {
